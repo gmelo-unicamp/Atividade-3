@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<h1>Atividade 3 - Programação Web</h1>
+
+<body>
+<h3> Gabriela Souza Melo RA168385 </h3>
+<h3> Pedro Amado Alves Martins RA175624 </h3>
+
+<details>
+<summary>MUZAMBINHO</summary>
+
+<h3><a href="">1- Muzambinho - Minas Gerais</h3></a>
+<a href="https://pt.wikipedia.org/wiki/Muzambinho"><img src="Matriz_de_São_José_Muzambinho_01.jpg" width="100px"></a><br/>
+
+<details>
+	<summary>Curiosidade</summary>
+
+<table border ="1">
+<caption>Comparação de cidades</caption>
+	<tr><th>Cidade</th><th>Habitantes</th><th>Km</th></tr>
+	<tr><td>Muzambinho</td><td>20.545</td><td>157.930 mi²</td></tr>
+
+</table>
+
+</details>
+
+
+<details>
+	<summary>Pontos Turísticos</summary>
+<ul>
+	<li>Chapéu de Sol</li>
+	<li>Parque Municipal</li>
+	<li>Cristo Redentor</li>
+</ul>
+</details>
+
+</details>
+
+
+<details>
+
+
+<summary>CAMPINAS</summary>
+
+<h3><a href="">Campinas - São Paulo</h3></a>
+<a href="https://pt.wikipedia.org/wiki/Campinas"><img src="Campinas_Poster.jpg" width="100px"></a><br/>
+
+<details>
+	<summary>Curiosidade</summary>
+
+<table border ="1">
+<caption>Informativo sobre a cidade</caption>
+	<tr><th>Cidade</th><th>Habitantes</th><th>Km</th></tr>
+	<tr><td>Campinas</td><td>2.6 mi</td><td>307,2 mi²</td></tr>
+
+</table>
+
+</details>
+
+
+<details>
+	<summary>Pontos Turísticos</summary>
+<ul>
+	<li>Parque Taquaral</li>
+	<li>Santuário Nossa Senhora Desatadora dos Nós</li>
+	<li>Parque D. Pedro Shopping</li>
+</ul>
+</details>
+
+</details>
+
+<h3> Vídeo Explicativo </h3>
+<video src="VideoExplicativo.mp4" width="700px" autoplay controls></video>
+
+</body>
+</html>
